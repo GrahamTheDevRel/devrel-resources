@@ -5,6 +5,7 @@ A simple list of people in DevRel, regularly updated.
 | ---  | ---     | ---     | -- | --- |
 | Me (yes, I put myself first 🤣) | [@GrahamTheDev](https://twitter.com/GrahamTheDev) | [GrahamThe.Dev](https://grahamthe.dev/) | @YourCompanyHere | Your Company Here |
 | Adam Argyle | [@argyleink](https://twitter.com/argyleink) | [nerdy.dev](https://nerdy.dev/) | [@GoogleChrome](https://twitter.com/GoogleChrome) | [google.com/chrome](https://www.google.com/chrome/) |
+| Angie Jones | [@techgirl1908](https://twitter.com/techgirl1908) | [angiejones.tech](https://angiejones.tech/) | [blocks](https://twitter.com/blocks) | [block.xyz](https://block.xyz/) |
 | Pratim | [@BhosalePratim](https://twitter.com/BhosalePratim) | ? | [@nhost](https://twitter.com/nhost) | [nhost.io](https://nhost.io/) |
 | Deni | [@DeniTechh](https://twitter.com/DeniTechh) | [setups.ghost.io](https://setups.ghost.io/) | [@wearedevs](https://twitter.com/wearedevs) | [wearedevelopers.com](https://www.wearedevelopers.com/) |
 | Eddie Jaoude | [@eddiejaoude](https://twitter.com/eddiejaoude) | [eddiejaoude.io](https://www.eddiejaoude.io/) | Various (OSS) | Various (OSS) |
