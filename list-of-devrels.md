@@ -15,6 +15,7 @@ A simple list of people in DevRel, regularly updated.
 | Marc Backes | [@themarcba](https://twitter.com/themarcba) | [marc.dev](https://marc.dev/) | [@wearedevs](https://twitter.com/wearedevs) | [wearedevelopers.com](https://www.wearedevelopers.com/) |
 | Marino | [@virtualized6ix](https://twitter.com/virtualized6ix) | [marinow.hashnode.dev](https://marinow.hashnode.dev/) | [@soloio_inc](https://twitter.com/soloio_inc) | [solo.io](https://www.solo.io/) |
 | Martin Woodward | [@martinwoodward](https://twitter.com/martinwoodward) | [hachyderm.io/@martinwoodward](https://hachyderm.io/@martinwoodward) | [@github](https://twitter.com/GitHub) | [github.com](https://github.com/) |
-| Mike | [@htmleverything](https://twitter.com/htmleverything) | [limey.io/htmlallthethings](https://limey.io/htmlallthethings) | [@plasmicapp](https://twitter.com/plasmicapp) | [plasmic.app](https://www.plasmic.app/) |
+| Mike | [@htmleverything](https://twitter.com/htmleverything) | [paul.kinlan.me](https://paul.kinlan.me) | [@plasmicapp](https://twitter.com/plasmicapp) | [plasmic.app](https://www.plasmic.app/) |
+| Paul Kinlan | [@Paul_Kinlan](https://twitter.com/Paul_Kinlan) | [limey.io/htmlallthethings](https://limey.io/htmlallthethings) | [@GoogleChromeDev](https://twitter.com/GoogleChromeDev) | [google.co.uk/chrome](https://www.google.co.uk/chrome) |
 | Yuri | [@yuricodesbot](https://twitter.com/yuricodesbot) | [linktr.ee/YuriCodesBot](https://linktr.ee/YuriCodesBot) | [@fonoster](https://twitter.com/fonoster) | [fonoster.com](https://fonoster.com/) |
 
