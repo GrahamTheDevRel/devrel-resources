@@ -17,8 +17,9 @@ A simple list of people in DevRel, regularly updated.
 | Marc Backes | [@themarcba](https://twitter.com/themarcba) | [marc.dev](https://marc.dev/) | [@wearedevs](https://twitter.com/wearedevs) | [wearedevelopers.com](https://www.wearedevelopers.com/) |
 | Marino | [@virtualized6ix](https://twitter.com/virtualized6ix) | [marinow.hashnode.dev](https://marinow.hashnode.dev/) | [@soloio_inc](https://twitter.com/soloio_inc) | [solo.io](https://www.solo.io/) |
 | Martin Woodward | [@martinwoodward](https://twitter.com/martinwoodward) | [hachyderm.io/@martinwoodward](https://hachyderm.io/@martinwoodward) | [@github](https://twitter.com/GitHub) | [github.com](https://github.com/) |
-| Mike | [@htmleverything](https://twitter.com/htmleverything) | [paul.kinlan.me](https://paul.kinlan.me) | [@plasmicapp](https://twitter.com/plasmicapp) | [plasmic.app](https://www.plasmic.app/) |
-| Paul Kinlan | [@Paul_Kinlan](https://twitter.com/Paul_Kinlan) | [limey.io/htmlallthethings](https://limey.io/htmlallthethings) | [@GoogleChromeDev](https://twitter.com/GoogleChromeDev) | [google.co.uk/chrome](https://www.google.co.uk/chrome) |
+| Mike | [@htmleverything](https://twitter.com/htmleverything) | [limey.io/htmlallthethings](https://limey.io/htmlallthethings) | [@plasmicapp](https://twitter.com/plasmicapp) | [plasmic.app](https://www.plasmic.app/) |
+| Nathan James | [@nsjames_](https://twitter.com/nsjames_) | [youtube.com/nsjames_](https://www.youtube.com/nsjames_) | [@EOSnFoundation](https://twitter.com/EOSnFoundation) | [eosnetwork.com](https://eosnetwork.com/) |
+| Paul Kinlan | [@Paul_Kinlan](https://twitter.com/Paul_Kinlan) | [paul.kinlan.me](https://paul.kinlan.me) | [@GoogleChromeDev](https://twitter.com/GoogleChromeDev) | [google.co.uk/chrome](https://www.google.co.uk/chrome) |
 | Ravin | [@ravinwashere](https://twitter.com/ravinwashere) | ? | [@FlycodeHQ](https://twitter.com/FlycodeHQ) | [flycode.com](https://flycode.com/) |
 | Sabrina | [@sabrinaesaquino](https://twitter.com/sabrinaesaquino) | [instagram.com/sabrinaqno](https://www.instagram.com/sabrinaqno/) | [@shakudo_io](https://twitter.com/shakudo_io) | [shakudo.io](https://www.shakudo.io/) |
 | Yuri | [@yuricodesbot](https://twitter.com/yuricodesbot) | [linktr.ee/YuriCodesBot](https://linktr.ee/YuriCodesBot) | [@fonoster](https://twitter.com/fonoster) | [fonoster.com](https://fonoster.com/) |
