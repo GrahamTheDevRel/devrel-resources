@@ -12,6 +12,7 @@ A simple list of people in DevRel, regularly updated.
 | Eddie Jaoude | [@eddiejaoude](https://twitter.com/eddiejaoude) | [eddiejaoude.io](https://www.eddiejaoude.io/) | Various (OSS) | Various (OSS) |
 | Favor | [@heyOnuoha](https://twitter.com/heyOnuoha) | [me.heyonuoha.live/](https://me.heyonuoha.live/) | [@ShowwcaseHQ](https://twitter.com/ShowwcaseHQ) | [showwcase.com](https://www.showwcase.com/) |
 | Francesco Ciulla | [@FrancescoCiull4](https://twitter.com/FrancescoCiull4) | [francescociulla.com](https://francescociulla.com) | [@dailydotdev](https://twitter.com/dailydotdev) | [daily.dev](https://daily.dev) |
+| Idris | [@olanetsoft](https://twitter.com/olanetsoft) | [linktr.ee/olanetsoft](https://linktr.ee/olanetsoft) | [@themaraverse](https://twitter.com/themaraverse) | [mara.xyz](https://mara.xyz/) |
 | Jonaed | [@NoDegreeDotCom](https://twitter.com/NoDegreeDotCom) | [github.com/sponsors/JonaedIqbal](https://github.com/sponsors/JonaedIqbal) | [@EOSnFoundation](https://twitter.com/EOSnFoundation) | [eosnetwork.com](https://eosnetwork.com/) |
 | Kunal Kushwaha | [@kunalstwt](https://twitter.com/kunalstwt) | [kunalkushwaha.com](https://kunalkushwaha.com) | [@CivoCloud](https://twitter.com/CivoCloud) | [civo.com](https://www.civo.com/) |
 | Marc Backes | [@themarcba](https://twitter.com/themarcba) | [marc.dev](https://marc.dev/) | [@wearedevs](https://twitter.com/wearedevs) | [wearedevelopers.com](https://www.wearedevelopers.com/) |
