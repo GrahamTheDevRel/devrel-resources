@@ -22,6 +22,7 @@ A simple list of people in DevRel, regularly updated.
 | Nathan James | [@nsjames_](https://twitter.com/nsjames_) | [youtube.com/nsjames_](https://www.youtube.com/nsjames_) | [@EOSnFoundation](https://twitter.com/EOSnFoundation) | [eosnetwork.com](https://eosnetwork.com/) |
 | Paul Kinlan | [@Paul_Kinlan](https://twitter.com/Paul_Kinlan) | [paul.kinlan.me](https://paul.kinlan.me) | [@GoogleChromeDev](https://twitter.com/GoogleChromeDev) | [google.co.uk/chrome](https://www.google.co.uk/chrome) |
 | Ravin | [@ravinwashere](https://twitter.com/ravinwashere) | ? | [@FlycodeHQ](https://twitter.com/FlycodeHQ) | [flycode.com](https://flycode.com/) |
+| Rohit | [@ghumare64](https://twitter.com/ghumare64) | [linktr.ee/rohit_ghumare](https://linktr.ee/rohit_ghumare) | [@soloio_inc](https://twitter.com/soloio_inc) | [solo.io](https://www.solo.io/) |
 | Sabrina | [@sabrinaesaquino](https://twitter.com/sabrinaesaquino) | [instagram.com/sabrinaqno](https://www.instagram.com/sabrinaqno/) | [@shakudo_io](https://twitter.com/shakudo_io) | [shakudo.io](https://www.shakudo.io/) |
 | Yuri | [@yuricodesbot](https://twitter.com/yuricodesbot) | [linktr.ee/YuriCodesBot](https://linktr.ee/YuriCodesBot) | [@fonoster](https://twitter.com/fonoster) | [fonoster.com](https://fonoster.com/) |
 
